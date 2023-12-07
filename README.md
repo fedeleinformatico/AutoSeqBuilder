@@ -1,7 +1,5 @@
 # AutoSeqBuilder
 
-# AutoSeqBuilder
-
 ## Introduction
 
 AutoSeqBuilder is a Python script designed to simplify the automatic creation of video sequences with a resolution of 1800x1680 in your favorite editing software. The main goal of the script is to generate an XML file that can be easily imported into editing software such as Adobe Premiere Pro, DaVinci Resolve, and others.
