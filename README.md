@@ -7,7 +7,7 @@ AutoSeqBuilder is a Python script designed to simplify the automatic creation of
 ## Key Features
 
 - **Video Sequence Automation:** Automatically generates video sequences with a resolution of 1920x1080, inserting files in 10-second blocks.
-  
+- **Audio Exclusion:** The script excludes audio components during sequence generation, providing flexibility for users who do not require audio in their sequences.
 - **XML File Ready for Import:** Creates a structured XML file ready to be imported into your editing software.
 
 ## How It Works
